@@ -2,13 +2,13 @@ Todo Application
 A Task Management application built with Next.js, Express.js, and MongoDB. It allows users to create, view, edit, and delete tasks with a simple, intuitive interface. 
 Includes search, filter, and pagination for better task management.
 
-*** Setup Instructions ***
+*** Setup Instructions ***<br>
 Prerequisites
 Node.js 
 MongoDB 
 Git
 
-*** Steps to Run Locally ***
+*** Steps to Run Locally ***<br>
 1. Clone the Repository
 git clone https://github.com/NilusCodeRepo/todo_app.git
 cd task-management-app
